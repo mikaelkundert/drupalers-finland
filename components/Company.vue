@@ -13,13 +13,11 @@
 </template>
 
 <script>
-const YAML = require('yamljs')
-
- export default {
+export default {
   data() {
     return {
       allCompanies: YAML.load('../data/companies.yml')
      }
    }
-}
+ }
 </script>
