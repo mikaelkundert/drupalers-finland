@@ -1,0 +1,6 @@
+- Name: Example Company
+  Location:
+    - Helsinki
+    - Turku
+  Website: https://www.example.com
+  Logo: example.png
