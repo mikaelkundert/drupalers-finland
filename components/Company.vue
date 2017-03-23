@@ -13,6 +13,8 @@
 </template>
 
 <script>
+const YAML = require('yamljs')
+
  export default {
   data() {
     return {

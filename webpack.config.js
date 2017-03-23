@@ -35,6 +35,11 @@ module.exports = {
         loader: ['style-loader', 'css-loader', 'stylus-loader']
       },
       {
+        test: /\.yaml$/,
+        include: path.resolve('data'),
+        loader: 'yaml',
+      },
+      {
         test: /\.(png|jpg|gif|svg)$/,
         loader: 'file-loader',
         options: {
