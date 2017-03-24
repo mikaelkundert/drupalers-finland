@@ -7,9 +7,7 @@
         </v-container>
       </v-content>
     </main>
-    <v-footer>
-      <footers></footers>
-    </v-footer>
+    <footers></footers>
   </v-app>
 </template>
 
