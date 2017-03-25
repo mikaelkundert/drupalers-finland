@@ -50,5 +50,4 @@ export default {
 
 <style lang="stylus">
   @import '../node_modules/vuetify/src/stylus/main'
-  @import '../css/main.css'
 </style>
