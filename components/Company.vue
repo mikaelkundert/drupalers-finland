@@ -20,7 +20,7 @@
         </v-card-title>
       </v-card-row>
       <v-card-row height="200px" :class="company.Background" class="company-logo">
-        <img :src="company.Logo" :alt="company.Name" :title="company.Name" class="pa-2">
+        <img :src="company.Logo" :alt="company.Name" :title="company.Name" class="pa-2 company-logo-image">
       </v-card-row>
       <v-card-row actions class="blue-grey darken-1 mt-0">
         <v-spacer></v-spacer>
