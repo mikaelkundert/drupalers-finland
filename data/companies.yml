@@ -1,6 +1,21 @@
 - Name: Example Company
-  Location:
+  Locations:
     - Helsinki
     - Turku
   Website: https://www.example.com
   Logo: example.png
+  Background: blue
+
+- Name: Mosaic Productions
+  Locations:
+    - Helsinki
+  Website: http://www.mosaic.fi
+  Logo: http://mosaic.fi/sites/default/files/mosaic2.png
+
+- Name: Exove
+  Locations:
+    - Helsinki
+    - Oulu
+  Website: http://www.exove.com
+  Logo: http://www.exove.com/sites/all/themes/exove2012/images/exove-logo-desktop.png
+  Background:
