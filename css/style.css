@@ -1,10 +1,12 @@
+body {
+  background: #b2dfdb !important;
+}
 .company-card {
   width: 22em;
   height:13em;
 }
 .company-logo {
   justify-content: center;
-  width: 22em;
   height:13em;
 }
 .company-logo-image {
@@ -24,7 +26,6 @@
   left: 0;
   right: 0;
   margin-bottom: 0;
-  margin-top: 3em;
 }
 
 .footer a {
