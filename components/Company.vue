@@ -1,5 +1,5 @@
 <template>
-  <v-row>
+  <v-row class="row-body">
     <v-card class="ma-4 company-card" v-for="company in allCompanies">
       <v-card-row class="cyan darken-2">
         <v-card-title>
