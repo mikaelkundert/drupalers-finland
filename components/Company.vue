@@ -35,7 +35,7 @@
 export default {
   data() {
     return {
-      allCompanies: _.orderBy(YAML.load('../data/companies.yml'), ['Name'], ['asc'])
+      allCompanies: _.orderBy(YAML.load('./data/companies.yml'), ['Name'], ['asc'])
      }
    }
 }

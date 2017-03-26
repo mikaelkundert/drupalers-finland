@@ -33,7 +33,6 @@
 
 
 <script>
-//const YAML = require('yamljs')
 import Yaml from 'yamljs'
 import Companies from './Company.vue'
 import Footers from './Footer.vue'
