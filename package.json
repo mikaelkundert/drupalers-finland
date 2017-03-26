@@ -8,7 +8,8 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "vue": "^2.2.0"
+    "vue": "^2.2.0",
+    "yamljs": "^0.2.8"
   },
   "devDependencies": {
     "buble": "^0.15.1",
@@ -23,7 +24,6 @@
     "vue-template-compiler": "^2.1.0",
     "vuetify": "^0.9.1",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.2.0",
-    "yamljs": "^0.2.8"
+    "webpack-dev-server": "^2.2.0"
   }
 }

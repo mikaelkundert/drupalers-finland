@@ -33,10 +33,12 @@
 
 
 <script>
-const YAML = require('yamljs')
+//const YAML = require('yamljs')
+import Yaml from 'yamljs'
 import Companies from './Company.vue'
 import Footers from './Footer.vue'
-var _ = require('lodash');
+const YAML = Yaml
+const _ = require('lodash');
 
 export default {
   components: {
