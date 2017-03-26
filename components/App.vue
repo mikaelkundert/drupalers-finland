@@ -4,7 +4,7 @@
       <v-content class="teal lighten-4">
         <v-container fluid>
           <section class="search-section row">
-            <article class="col sm4 offset-sm8">
+            <article class="col sm6 offset-sm6 md4 offset-md8">
               <v-text-field
                 name="search"
                 label="Search"
