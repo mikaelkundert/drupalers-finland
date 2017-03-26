@@ -1,25 +1,54 @@
+.company-card {
+  width: 22em;
+  height:13em;
+}
 .company-logo {
   justify-content: center;
-  width: 300px;
+  width: 22em;
+  height:13em;
 }
 .company-logo-image {
   max-width: 95%;
   max-height: 95%;
 }
+.body-section {
+  margin-left: auto;
+  margin-right: auto;
+}
 .footer {
   height: auto !important;
   line-height: 2em !important;
   font-size: 1.2em;
+  position: fixed !important;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: 0;
+  margin-top: 3em;
 }
 
 .footer a {
   color: white;
 }
 
-
+@media only screen and (min-width: 518.4px) {
+  .body-section {
+    max-width: 90%
+  }
+}
 
 @media only screen and (max-width: 768px) {
   .footer {
     font-size: 1em;
+    margin-top: 2em;
+  }
+  .body-section {
+    max-width: 85%
+  }
+}
+
+@media only screen and (min-width: 1080px) {
+  .body-section {
+    max-width: 80%
   }
 }

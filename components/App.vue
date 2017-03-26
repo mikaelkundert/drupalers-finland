@@ -1,7 +1,7 @@
 <template>
   <v-app id="drupalers-finland" footer>
-    <main>
-      <v-content>
+    <main class="main-container">
+      <v-content class="teal lighten-4">
         <v-container fluid>
           <section class="search-section row">
             <article class="col sm4 offset-sm8">

@@ -3,14 +3,14 @@
     - Helsinki
   Website: http://www.mosaic.fi
   Logo: http://mosaic.fi/sites/default/files/mosaic2.png
-  Background:
+  Background: red darken-4
 
 - Name: Mysteerio
   Locations:
     - Helsinki
   Website: http://mysteerio.fi
   Logo: http://mysteerio.fi/sites/all/themes/mysteerio/images/www_logo.png
-  Background:
+  Background: orange darken-2
 
 - Name: Exove
   Locations:
@@ -19,4 +19,11 @@
     - Tampere
   Website: http://www.exove.com
   Logo: http://www.exove.com/sites/all/themes/exove2012/images/exove-logo-desktop.png
-  Background: 
+  Background: blue darken-4
+
+- Name: Druid
+  Locations:
+    - Helsinki
+  Website: https://druid.fi
+  Logo: https://druid.fi/themes/custom/druid/logo.svg
+  Background: purple darken-2
