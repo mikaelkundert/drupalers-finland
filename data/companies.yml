@@ -3,12 +3,14 @@
     - Helsinki
   Website: http://www.mosaic.fi
   Logo: http://mosaic.fi/sites/default/files/mosaic2.png
+  Background:
 
 - Name: Mysteerio
   Locations:
     - Helsinki
   Website: http://mysteerio.fi
   Logo: http://mysteerio.fi/sites/all/themes/mysteerio/images/www_logo.png
+  Background:
 
 - Name: Exove
   Locations:
@@ -17,4 +19,4 @@
     - Tampere
   Website: http://www.exove.com
   Logo: http://www.exove.com/sites/all/themes/exove2012/images/exove-logo-desktop.png
-  Background:
+  Background: 

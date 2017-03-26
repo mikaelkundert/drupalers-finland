@@ -1,7 +1,7 @@
 <template>
   <v-row>
     <v-card class="ma-5" v-for="company in allCompanies">
-      <v-card-row class="blue-grey darken-1">
+      <v-card-row class="cyan darken-2">
         <v-card-title>
           <span class="white--text">{{ company.Name}}</span>
           <v-spacer></v-spacer>
@@ -22,7 +22,7 @@
       <v-card-row height="200px" :class="company.Background" class="company-logo">
         <img :src="company.Logo" :alt="company.Name" :title="company.Name" class="pa-2 company-logo-image">
       </v-card-row>
-      <v-card-row actions class="blue-grey darken-1 mt-0">
+      <v-card-row actions class="cyan darken-2 mt-0">
         <v-spacer></v-spacer>
         <a :href="company.Website" target="_blank" rel="nofollow"><button flat class="white--text">{{ company.Website }}</button></a>
         <v-spacer></v-spacer>

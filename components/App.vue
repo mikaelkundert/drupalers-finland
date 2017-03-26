@@ -3,21 +3,18 @@
     <main>
       <v-content>
         <v-container fluid>
-          <section class="search-section">
-            <v-row>
-              <v-col xs4 v-for="i in 2"></v-col>
-              <v-col xs4>
-                <v-text-field
-                  name="search"
-                  label="Search"
-                  class="input-group--focused pr-5"
-                  prepend-icon="search"
-                  placeholder="search"
-                  single-line
-                  >
-                </v-text-field>
-              </v-col>
-            </v-row>
+          <section class="search-section row">
+            <article class="col sm4 offset-sm8">
+              <v-text-field
+                name="search"
+                label="Search"
+                class="input-group--focused pr-5"
+                prepend-icon="search"
+                placeholder="search"
+                single-line
+                >
+              </v-text-field>
+            </article>
           </section>
           <section class="body-section">
             <companies></companies>
