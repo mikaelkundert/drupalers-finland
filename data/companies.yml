@@ -27,3 +27,38 @@
   Website: https://druid.fi
   Logo: https://druid.fi/themes/custom/druid/logo.svg
   Background: purple darken-2
+
+- Name: TIP Solutions
+  Locations:
+    - Kuopio
+  Website: https://tipsolutions.fi
+  Logo: https://tipsolutions.fi/sites/default/files/tip-272x272.jpg
+  Background: purple accent-4
+
+- Name: Mirum Agency
+  Locations:
+    - Helsinki
+  Website: http://www.mirumagency.com
+  Logo: https://www.mirumagency.com/sites/all/themes/mirum/logo.png
+  Background: deep-orange darken-2
+
+- Name: Drontti
+  Locations:
+    - Turku
+  Website: http://www.drontti.fi
+  Logo: https://www.drontti.fi/themes/custom/drontti/images/logo.png
+  Background: brown darken-2
+
+- Name: Nord Software
+  Locations:
+    - Helsinki
+  Website: http://www.nordsoftware.com
+  Logo: https://www.nordsoftware.com/wp-content/themes/nord_software/assets/build/images/logo-original.svg
+  Background: pink darken-1
+
+- Name: Avoltus
+  Locations:
+    - Turku
+  Website: http://www.avoltus.com
+  Logo: https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAASiAAAAJGYwZjljZTllLTg4MTUtNGY2ZS1iNTY4LWJiYjJhODIwMWIwOA.png
+  Background:
