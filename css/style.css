@@ -30,9 +30,21 @@ body {
   right: 0;
   margin-bottom: 0;
 }
-
 .footer a {
   color: white;
+}
+
+.light-black1 {
+  background-color: #191919;
+  }
+.light-black2 {
+  background-color: rgba(35, 35, 35);
+}
+.light-black3 {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.light-black4 {
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 @media only screen and (min-width: 518.4px) {
@@ -48,6 +60,9 @@ body {
   }
   .body-section {
     max-width: 85%
+  }
+  .row-body {
+    margin-bottom: 5em;
   }
 }
 

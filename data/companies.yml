@@ -62,3 +62,155 @@
   Website: http://www.avoltus.com
   Logo: https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAASiAAAAJGYwZjljZTllLTg4MTUtNGY2ZS1iNTY4LWJiYjJhODIwMWIwOA.png
   Background:
+
+- Name: Affecto
+  Locations:
+    - Espoo
+  Website: http://www.affecto.com
+  Logo: http://www.affecto.com/wp-content/themes/affecto_2/assets/build/images/logo.png
+  Background: grey lighten-2
+
+- Name: Brain Alliance
+  Locations:
+    - Helsinki
+    - Turku
+  Website: http://www.brainalliance.fi
+  Logo: http://www.brainalliance.fi/sites/all/themes/commerce/logo.png
+  Background:
+
+- Name: Brave Digital
+  Locations:
+    - Espoo
+    - Kuopio
+    - Lisalmi
+  Website: https://brave.fi
+  Logo: https://brave.fi/sites/all/themes/brave/img/brave-logo-white.svg
+  Background: deep-purple darken-4
+
+- Name: Citrus Solutions
+  Locations:
+    - Helsinki
+    - Turku
+  Website: http://www.citrus.fi
+  Logo: http://www.citrus.fi/themes/custom/citrusfi/logo.svg
+  Background: light-green
+
+- Name: Finnish Net Solutions
+  Locations:
+    - Espoo
+    - Kuopio
+    - Lohja
+  Website: http://www.fns.fi
+  Logo: http://www.fns.fi/sites/default/files/logo.png
+  Background: black
+
+- Name: Jabadabaduu
+  Locations:
+    - Helsinki
+    - Pori
+    - Rauma
+    - Turku
+  Website: http://www.jabadabaduu.fi
+  Logo: http://www.jabadabaduu.fi/sites/all/themes/drupaletti/logo.png
+  Background:
+
+- Name: Karhu Helsinki
+  Locations:
+    - Helsinki
+  Website: http://www.karhuhelsinki.fi
+  Logo: http://www.karhuhelsinki.fi/sites/default/themes/karhuhelsinki/logo.svg
+  Background: indigo accent-3
+
+- Name: Konsepto
+  Locations:
+    - Helsinki
+  Website: https://konsepto.fi
+  Logo: https://konsepto.fi/sites/all/themes/konsepto_2016/logo.png
+  Background: black
+
+- Name: KWD Digital
+  Locations:
+    - Helsinki
+    - Turku
+  Website: https://www.kwd.fi
+  Logo: https://www.kwd.fi/sites/all/themes/teema/logo.png
+  Background: grey darken-4
+
+- Name: Mainetoimisto Kohu
+  Locations:
+    - Tampere
+  Website: http://www.kohu.fi
+  Logo: http://www.kohu.fi/img/kohu-bleu.png
+  Background:
+
+- Name: Nettimaakari
+  Locations:
+    - Espoo
+  Website: http://www.nettimaakari.fi
+  Logo: http://www.nettimaakari.fi/sites/www.nettimaakari.fi/themes/perfectnettimaakari/images/nettimaakari_logo_2.png
+  Background: grey lighten-2
+
+- Name: Osuuskunta Sange
+  Locations:
+    - Helsinki
+  Website: http://www.sange.fi
+  Logo: http://www.sange.fi/sites/default/files/header_logo.png
+  Background: grey lighten-2
+
+- Name: Pohjaton
+  Locations:
+    - Helsinki
+  Website: http://www.pohjaton.fi
+  Logo: http://www.pohjaton.fi/sites/pohjaton.fi/files/pohjaton_logo.gif
+  Background: light-black1
+
+- Name: Siili Solutions
+  Locations:
+    - Helsinki
+    - Oulu
+  Website: http://www.siili.com
+  Logo: http://www.siili.com/themes/siili/logo.svg
+  Background:
+
+- Name: Tieto
+  Locations:
+    - Espoo
+  Website: https://www.tieto.com
+  Logo: https://www.tieto.com/sites/all/themes/tietocom/tietologo.png
+  Background: light-blue lighten-1
+
+- Name: Vaiste Productions
+  Locations:
+    - Turku
+  Website: http://www.vaiste.com
+  Logo: http://www.vaiste.com/sites/vaiste.com/files/vp_logo_0_0_2.png
+  Background: light-black3
+
+- Name: WebWire
+  Locations:
+    - Oulu
+  Website: https://webwire.fi
+  Logo: https://webwire.fi/sites/default/files/webwire-nettisivut-logo.jpg
+  Background: black
+
+- Name: Wunderkraut
+  Locations:
+    - Helsinki
+    - Turku
+  Website: https://wunderkraut.fi
+  Logo: https://wunderkraut.fi/profiles/wkse/themes/wksetheme/images/grunticon/wunder.svg
+  Background: light-black4
+#
+# - Name:
+#   Locations:
+#     - Helsinki
+#   Website:
+#   Logo:
+#   Background:
+#
+# - Name:
+#   Locations:
+#     - Helsinki
+#   Website:
+#   Logo:
+#   Background:
