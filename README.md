@@ -14,9 +14,11 @@ To contribute to the list, please send the Pull Request by adding the company in
     - Tampere
     - Turku
   Website: https://www.example.com
-  Logo: https://www.example.com/logo/example.png
+  Logo:./images/example.png
   Background: blue
-```
+```  
+
+Also add Logo image of the company in the image folder and list the filename in above Variable
 
 ### Built with  
 Lots of love and help from other great Open Source projects like:
