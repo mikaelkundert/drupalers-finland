@@ -172,13 +172,6 @@
   Logo: http://www.siili.com/themes/siili/logo.svg
   Background:
 
-- Name: Tieto
-  Locations:
-    - Espoo
-  Website: https://www.tieto.com
-  Logo: https://www.tieto.com/sites/all/themes/tietocom/tietologo.png
-  Background: light-blue lighten-1
-
 - Name: Vaiste Productions
   Locations:
     - Turku
