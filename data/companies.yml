@@ -2,14 +2,14 @@
   Locations:
     - Helsinki
   Website: http://www.mosaic.fi
-  Logo: http://mosaic.fi/sites/default/files/mosaic2.png
+  Logo: ./images/mosaic.png
   Background:
 
 - Name: Mysteerio
   Locations:
     - Helsinki
   Website: http://mysteerio.fi
-  Logo: http://mysteerio.fi/sites/all/themes/mysteerio/images/www_logo.png
+  Logo: ./images/mysteerio.png
   Background: grey lighten-3
 
 - Name: Exove
@@ -18,56 +18,56 @@
     - Oulu
     - Tampere
   Website: http://www.exove.com
-  Logo: http://www.exove.com/sites/all/themes/exove2012/images/exove-logo-desktop.png
+  Logo: ./images/exove.png
   Background:
 
 - Name: Druid
   Locations:
     - Helsinki
   Website: https://druid.fi
-  Logo: https://druid.fi/themes/custom/druid/logo.svg
+  Logo: ./images/druid.svg
   Background: black
 
 - Name: TIP Solutions
   Locations:
     - Kuopio
   Website: https://tipsolutions.fi
-  Logo: https://tipsolutions.fi/sites/default/files/tip-272x272.jpg
+  Logo: ./images/tipsolutions.jpg
   Background: light-green
 
 - Name: Mirum Agency
   Locations:
     - Helsinki
   Website: http://www.mirumagency.com
-  Logo: https://www.mirumagency.com/sites/all/themes/mirum/logo.png
+  Logo: ./images/mirum.png
   Background:
 
 - Name: Drontti
   Locations:
     - Turku
   Website: http://www.drontti.fi
-  Logo: https://www.drontti.fi/themes/custom/drontti/images/logo.png
+  Logo: ./images/drontti.png
   Background: brown darken-2
 
 - Name: Nord Software
   Locations:
     - Helsinki
   Website: http://www.nordsoftware.com
-  Logo: https://www.nordsoftware.com/wp-content/themes/nord_software/assets/build/images/logo-original.svg
+  Logo: ./images/nordsoftware.svg
   Background:
 
 - Name: Avoltus
   Locations:
     - Turku
   Website: http://www.avoltus.com
-  Logo: https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAASiAAAAJGYwZjljZTllLTg4MTUtNGY2ZS1iNTY4LWJiYjJhODIwMWIwOA.png
+  Logo: ./images/avoltus.png
   Background:
 
 - Name: Affecto
   Locations:
     - Espoo
   Website: http://www.affecto.com
-  Logo: http://www.affecto.com/wp-content/themes/affecto_2/assets/build/images/logo.png
+  Logo: ./images/affecto.png
   Background: grey lighten-2
 
 - Name: Brain Alliance
@@ -75,7 +75,7 @@
     - Helsinki
     - Turku
   Website: http://www.brainalliance.fi
-  Logo: http://www.brainalliance.fi/sites/all/themes/commerce/logo.png
+  Logo: ./images/brainalliance.png
   Background:
 
 - Name: Brave Digital
@@ -84,7 +84,7 @@
     - Kuopio
     - Lisalmi
   Website: https://brave.fi
-  Logo: https://brave.fi/sites/all/themes/brave/img/brave-logo-white.svg
+  Logo: ./images/brave.svg
   Background: deep-purple darken-4
 
 - Name: Citrus Solutions
@@ -92,7 +92,7 @@
     - Helsinki
     - Turku
   Website: http://www.citrus.fi
-  Logo: http://www.citrus.fi/themes/custom/citrusfi/logo.svg
+  Logo: ./images/citrus.svg
   Background: light-green
 
 - Name: Finnish Net Solutions
@@ -101,7 +101,7 @@
     - Kuopio
     - Lohja
   Website: http://www.fns.fi
-  Logo: http://www.fns.fi/sites/default/files/logo.png
+  Logo: ./images/fns.png
   Background: black
 
 - Name: Jabadabaduu
@@ -111,21 +111,21 @@
     - Rauma
     - Turku
   Website: http://www.jabadabaduu.fi
-  Logo: http://www.jabadabaduu.fi/sites/all/themes/drupaletti/logo.png
+  Logo: ./images/jabadabaduu.png
   Background:
 
 - Name: Karhu Helsinki
   Locations:
     - Helsinki
   Website: http://www.karhuhelsinki.fi
-  Logo: http://www.karhuhelsinki.fi/sites/default/themes/karhuhelsinki/logo.svg
+  Logo: ./images/karhu.svg
   Background: indigo accent-3
 
 - Name: Konsepto
   Locations:
     - Helsinki
   Website: https://konsepto.fi
-  Logo: https://konsepto.fi/sites/all/themes/konsepto_2016/logo.png
+  Logo: ./images/konsepto.png
   Background: black
 
 - Name: KWD Digital
@@ -133,35 +133,35 @@
     - Helsinki
     - Turku
   Website: https://www.kwd.fi
-  Logo: https://www.kwd.fi/sites/all/themes/teema/logo.png
+  Logo: ./images/kwd.png
   Background: grey darken-4
 
 - Name: Mainetoimisto Kohu
   Locations:
     - Tampere
   Website: http://www.kohu.fi
-  Logo: http://www.kohu.fi/img/kohu-bleu.png
+  Logo: ./images/kohu.png
   Background:
 
 - Name: Nettimaakari
   Locations:
     - Espoo
   Website: http://www.nettimaakari.fi
-  Logo: http://www.nettimaakari.fi/sites/www.nettimaakari.fi/themes/perfectnettimaakari/images/nettimaakari_logo_2.png
+  Logo: ./images/nettimaakari.png
   Background: grey lighten-2
 
 - Name: Osuuskunta Sange
   Locations:
     - Helsinki
   Website: http://www.sange.fi
-  Logo: http://www.sange.fi/sites/default/files/header_logo.png
+  Logo: ./images/sange.png
   Background: grey lighten-2
 
 - Name: Pohjaton
   Locations:
     - Helsinki
   Website: http://www.pohjaton.fi
-  Logo: http://www.pohjaton.fi/sites/pohjaton.fi/files/pohjaton_logo.gif
+  Logo: ./images/pohjaton.gif
   Background: light-black1
 
 - Name: Siili Solutions
@@ -169,21 +169,21 @@
     - Helsinki
     - Oulu
   Website: http://www.siili.com
-  Logo: http://www.siili.com/themes/siili/logo.svg
+  Logo: ./images/siili.svg
   Background:
 
 - Name: Vaiste Productions
   Locations:
     - Turku
   Website: http://www.vaiste.com
-  Logo: http://www.vaiste.com/sites/vaiste.com/files/vp_logo_0_0_2.png
+  Logo: ./images/vaiste.png
   Background: light-black3
 
 - Name: WebWire
   Locations:
     - Oulu
   Website: https://webwire.fi
-  Logo: https://webwire.fi/sites/default/files/webwire-nettisivut-logo.jpg
+  Logo: ./images/webwire.jpg
   Background: black
 
 - Name: Wunderkraut
@@ -191,61 +191,61 @@
     - Helsinki
     - Turku
   Website: https://wunderkraut.fi
-  Logo: https://wunderkraut.fi/profiles/wkse/themes/wksetheme/images/grunticon/wunder.svg
+  Logo: ./images/wunder.svg
   Background: light-black4
 
 - Name: Tmi Antti Mäkelä
   Locations:
     - Huittinen
   Website: https://www.anttimakela.net
-  Logo: https://www.anttimakela.net/sites/default/files/logo-2.png
+  Logo: ./images/anttimakela.png
   Background: black
 
 - Name: Lildrop
   Locations:
     - Kuopio
   Website: http://lildrop.com
-  Logo: https://www.drupal.org/files/styles/grid-3-2x/public/lildrop-logo.png
+  Logo: ./images/lildrop.png
   Background:
 
 - Name: Leimahdus
   Locations:
     - Turku
   Website: http://www.leimahdus.com
-  Logo: http://www.leimahdus.com/wp-content/uploads/2015/04/leimahdus_logo_desktop.png
+  Logo: ./images/leimahdus.png
   Background: light-black3
 
 - Name: Molentum
   Locations:
     - Helsinki
   Website: https://molentum.fi
-  Logo: https://molentum.fi/files/molentum-logo.png
+  Logo: ./images/molentum.png
   Background:
 
 - Name: Njoy Production
   Locations:
     - Pietarsaari
   Website: http://www.njoy.fi
-  Logo: http://www.njoy.fi/sites/all/themes/adaptivetheme/njoyresponsive/logo.png
+  Logo: ./images/njoy.png
   Background: black
 
 - Name: Strax
   Locations:
     - Åland
   Website: http://www.strax.ax
-  Logo: http://www.strax.ax/sites/www.strax.ax/files/strax2x.png
+  Logo: ./images/strax.png
   Background:
 
 - Name: Mikkohapponen.fi
   Locations:
     - Jyväskylä
   Website: http://www.mikkohapponen.fi
-  Logo: http://www.mikkohapponen.fi/sites/default/files/logo-tp_0.png
+  Logo: ./images/mikkohapponen.png
   Background:
 
 - Name: Kehatieto
   Locations:
     - Helsinki
   Website: http://www.kehatieto.fi
-  Logo: http://www.kehatieto.fi/sites/all/themes/base/images/logo.png
+  Logo: ./images/kehatieto.png
   Background: light-black4

@@ -5,7 +5,7 @@ Please help me list all the companies that does Drupal development in Finland.
 
 To contribute to the list, please send the Pull Request by adding the company information in `data/companies.yml` file in the following format:  
 > Note: Please only list the locations of Finland even if your company has offices in other parts of the world.
-> Also the classes for background of the logo can be selected from [Vuetify](https://vuetifyjs.com/css/colors)
+> Also the classes for background of the logo can be selected from [VuetifyJs Colors](https://vuetifyjs.com/css/colors)
 ```Ruby
 - Name: Example Company
   Locations:
