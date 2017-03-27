@@ -193,17 +193,59 @@
   Website: https://wunderkraut.fi
   Logo: https://wunderkraut.fi/profiles/wkse/themes/wksetheme/images/grunticon/wunder.svg
   Background: light-black4
-#
-# - Name:
-#   Locations:
-#     - Helsinki
-#   Website:
-#   Logo:
-#   Background:
-#
-# - Name:
-#   Locations:
-#     - Helsinki
-#   Website:
-#   Logo:
-#   Background:
+
+- Name: Tmi Antti Mäkelä
+  Locations:
+    - Huittinen
+  Website: https://www.anttimakela.net
+  Logo: https://www.anttimakela.net/sites/default/files/logo-2.png
+  Background: black
+
+- Name: Lildrop
+  Locations:
+    - Kuopio
+  Website: http://lildrop.com
+  Logo: https://www.drupal.org/files/styles/grid-3-2x/public/lildrop-logo.png
+  Background:
+
+- Name: Leimahdus
+  Locations:
+    - Turku
+  Website: http://www.leimahdus.com
+  Logo: http://www.leimahdus.com/wp-content/uploads/2015/04/leimahdus_logo_desktop.png
+  Background: light-black3
+
+- Name: Molentum
+  Locations:
+    - Helsinki
+  Website: https://molentum.fi
+  Logo: https://molentum.fi/files/molentum-logo.png
+  Background:
+
+- Name: Njoy Production
+  Locations:
+    - Pietarsaari
+  Website: http://www.njoy.fi
+  Logo: http://www.njoy.fi/sites/all/themes/adaptivetheme/njoyresponsive/logo.png
+  Background: black
+
+- Name: Strax
+  Locations:
+    - Åland
+  Website: http://www.strax.ax
+  Logo: http://www.strax.ax/sites/www.strax.ax/files/strax2x.png
+  Background:
+
+- Name: Mikkohapponen.fi
+  Locations:
+    - Jyväskylä
+  Website: http://www.mikkohapponen.fi
+  Logo: http://www.mikkohapponen.fi/sites/default/files/logo-tp_0.png
+  Background:
+
+- Name: Kehatieto
+  Locations:
+    - Helsinki
+  Website: http://www.kehatieto.fi
+  Logo: http://www.kehatieto.fi/sites/all/themes/base/images/logo.png
+  Background: light-black4
