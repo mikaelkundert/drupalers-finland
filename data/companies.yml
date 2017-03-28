@@ -249,3 +249,10 @@
   Website: http://www.kehatieto.fi
   Logo: ./images/kehatieto.png
   Background: light-black4
+
+- Name: Aino Solutions
+  Locations:
+    - Helsinki
+  Website: http://ainosolutions.com
+  Logo: ./images/aino.png
+  Background: grey lighten-3
