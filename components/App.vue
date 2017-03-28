@@ -7,10 +7,9 @@
             <article class="col sm6 offset-sm6 md4 offset-md8">
               <v-text-field
                 name="search"
-                label="Search"
+                label="Search (case sensetive)"
                 class="input-group--focused pr-5"
                 prepend-icon="search"
-                placeholder="search"
                 single-line
                 v-model="searchQuery"
                 >
@@ -22,7 +21,7 @@
               <v-card class="ma-4 company-card" v-for="company in filterCompanies">
                 <v-card-row class="cyan darken-2">
                   <v-card-title>
-                    <span class="white--text">{{ company.Name}}</span>
+                    <span class="white--text">{{ company.Name }}</span>
                     <v-spacer></v-spacer>
                     <v-menu id="space" bottom left origin="top right" transition="v-scale-transition">
                       <v-btn icon="icon" slot="activator" class="white--text">
