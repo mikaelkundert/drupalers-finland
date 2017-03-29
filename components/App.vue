@@ -7,7 +7,7 @@
             <article class="col sm6 offset-sm6 md4 offset-md8">
               <v-text-field
                 name="search"
-                label="Search (case sensetive)"
+                label="Search"
                 class="input-group--focused pr-5"
                 prepend-icon="search"
                 single-line
@@ -76,7 +76,7 @@ export default {
   methods: {
     findBy: function (list, value, column) {
       return list.filter(function (item) {
-        return item[column].includes(value)
+        return item[column].toLowerCase().includes(value)
       })
     }
   },
