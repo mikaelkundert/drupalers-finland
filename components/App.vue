@@ -1,5 +1,8 @@
 <template>
-  <v-app id="drupalers-finland" footer>
+  <v-app id="drupalers-finland" top-toolbar footer>
+    <v-toolbar class="secondary">
+      <v-toolbar-title class="text-xs-center secondary">Drupal development companies in Finland</v-toolbar-title>
+    </v-toolbar>
     <main class="main-container">
       <v-content class="teal lighten-4">
         <v-container fluid>
