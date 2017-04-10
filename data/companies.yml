@@ -186,11 +186,11 @@
   Logo: ./images/webwire.jpg
   Background: black
 
-- Name: Wunderkraut
+- Name: Wunder
   Locations:
     - Helsinki
     - Turku
-  Website: https://wunderkraut.fi
+  Website: https://wunder.io/fi
   Logo: ./images/wunder.svg
   Background: light-black4
 
