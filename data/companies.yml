@@ -256,3 +256,10 @@
   Website: http://ainosolutions.com
   Logo: ./images/aino.png
   Background: grey lighten-3
+
+- Name: WD Tutorials
+  Locations:
+    - Helsinki
+  Website: http://www.wdtutorials.com
+  Logo: ./images/wd.png
+  Background:
